@@ -1,0 +1,61 @@
+appnope @ file:///opt/concourse/worker/volumes/live/8b5bd665-fe9a-4b43-55ab-604475fcb838/volume/appnope_1606859465017/work
+argon2-cffi==21.3.0
+argon2-cffi-bindings==21.2.0
+async-generator==1.10
+attrs @ file:///opt/conda/conda-bld/attrs_1642510447205/work
+backcall @ file:///home/ktietz/src/ci/backcall_1611930011877/work
+bleach @ file:///opt/conda/conda-bld/bleach_1641577558959/work
+certifi==2021.5.30
+cffi==1.15.0
+dataclasses==0.8
+decorator @ file:///opt/conda/conda-bld/decorator_1643638310831/work
+defusedxml @ file:///tmp/build/80754af9/defusedxml_1615228127516/work
+entrypoints==0.3
+importlib-metadata==4.8.3
+ipykernel==5.5.6
+ipython==7.16.3
+ipython-genutils @ file:///tmp/build/80754af9/ipython_genutils_1606773439826/work
+ipywidgets @ file:///tmp/build/80754af9/ipywidgets_1634143127070/work
+jedi==0.17.2
+Jinja2==3.0.3
+jsonschema==3.2.0
+jupyter==1.0.0
+jupyter-client @ file:///opt/conda/conda-bld/jupyter_client_1643638337975/work
+jupyter-console @ file:///tmp/build/80754af9/jupyter_console_1616615302928/work
+jupyter-core==4.9.1
+jupyterlab-pygments @ file:///tmp/build/80754af9/jupyterlab_pygments_1601490720602/work
+jupyterlab-widgets==1.0.2
+MarkupSafe @ file:///opt/concourse/worker/volumes/live/16a820f0-3874-45b4-6b79-5313238ead21/volume/markupsafe_1621528157387/work
+mistune==0.8.4
+nbclient==0.5.9
+nbconvert @ file:///opt/concourse/worker/volumes/live/83354520-8b79-4a5c-771c-53c9f422edfc/volume/nbconvert_1601914843271/work
+nbformat @ file:///tmp/build/80754af9/nbformat_1617383369282/work
+nest-asyncio==1.5.4
+notebook==6.4.8
+packaging @ file:///tmp/build/80754af9/packaging_1637314298585/work
+pandocfilters @ file:///opt/conda/conda-bld/pandocfilters_1643405455980/work
+parso @ file:///opt/conda/conda-bld/parso_1641458642106/work
+pexpect @ file:///tmp/build/80754af9/pexpect_1605563209008/work
+pickleshare @ file:///tmp/build/80754af9/pickleshare_1606932040724/work
+prometheus-client==0.13.1
+prompt-toolkit==3.0.26
+ptyprocess @ file:///tmp/build/80754af9/ptyprocess_1609355006118/work/dist/ptyprocess-0.7.0-py2.py3-none-any.whl
+pycparser @ file:///tmp/build/80754af9/pycparser_1636541352034/work
+Pygments==2.11.2
+pyparsing==3.0.7
+pyrsistent==0.18.0
+python-dateutil @ file:///tmp/build/80754af9/python-dateutil_1626374649649/work
+pyzmq==22.3.0
+qtconsole==5.2.2
+QtPy==2.0.0
+Send2Trash @ file:///tmp/build/80754af9/send2trash_1632406701022/work
+six @ file:///tmp/build/80754af9/six_1623709665295/work
+terminado==0.12.1
+testpath @ file:///tmp/build/80754af9/testpath_1624638946665/work
+tornado @ file:///opt/concourse/worker/volumes/live/cd39df49-5c81-4c95-513c-5bb83298b7ef/volume/tornado_1606942310103/work
+traitlets @ file:///opt/concourse/worker/volumes/live/ab4b852a-8753-4f70-6083-433627bb8c3b/volume/traitlets_1632761183919/work
+typing_extensions==4.0.1
+wcwidth @ file:///Users/ktietz/demo/mc3/conda-bld/wcwidth_1629357192024/work
+webencodings==0.5.1
+widgetsnbextension==3.5.2
+zipp==3.6.0
